@@ -1,2 +1,2 @@
-# space-y
-IBM Applied Data Science Capstone
+# IBM Applied Data Science Capstone
+Author: Gustavo Reis
